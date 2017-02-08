@@ -1,0 +1,1 @@
+java -Xmx20M -cp ../lib/hamcrest-core-1.3.jar:../lib/junit-4.11.jar:../lib2/WalkTest.jar:../out/production/JavaHome info.kgeorgiy.java.advanced.walk.Tester RecursiveWalk ru.ifmo.ctddev.shandurenko.walk.RecursiveWalk
